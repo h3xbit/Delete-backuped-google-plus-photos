@@ -37,3 +37,4 @@ photos that can be deleted:
 
 """
 print("DOPE! you can now delete the folder on yo sdcard called SAFE-DELTE to free up the phone of the backuped media")
+print("If you have broken gallery thumbnails, deleting /data/data/com.androids.providers.media/databases/external.db may solve the problem (not internal.db)")
